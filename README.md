@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nida Zohra</h1>
-<h3 align="center">An experienced data analyst, with a passion for data science in Canada</h3>
 
 - 🔭 I’m currently working on **experimenting with different types of recommender system**
 
