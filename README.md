@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I enjoy reading books and knitting scarves for leisure**
 
+- Link to portfolio (WIP) - (nidatuzohra.github.io)[nidatuzohra.github.io]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nida-tuz-zohra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nida-tuz-zohra" height="30" width="40" /></a>
