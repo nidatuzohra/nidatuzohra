@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I enjoy reading books and knitting scarves for leisure**
 
-- Link to portfolio (WIP) - (nidatuzohra.github.io)[nidatuzohra.github.io]
+- Link to portfolio (WIP) - [nidatuzohra.github.io]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
