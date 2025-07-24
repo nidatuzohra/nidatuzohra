@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nida Zohra</h1>
 
-- 🔭 I’m currently working on **experimenting with different types of recommender system**
-
-- 🌱 I’m currently learning **TensorFlow**
+- 🔭 I’m currently working on **learning and implementing data governance**
 
 - 👯 I’m looking to collaborate on **evaluating unsupervised clustering algorithms**
-
-- 🤝 I’m looking for help with **implementing deep neural networks with unstructured dataset**
 
 - 💬 Ask me about **anything data science and data analysis related**
 
 - 📫 How to reach me **nidatzohra@gmail.com**
 
-- ⚡ Fun fact **I enjoy reading and knitting for leisure**
+- ⚡ Fun fact **I enjoy reading books and knitting scarves for leisure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
